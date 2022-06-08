@@ -1,0 +1,17 @@
+#textoPesquisa{
+	display: inline;
+	width: 50%;
+}
+
+.titulos{
+	margin-top:30px;
+}
+
+.botaoAcao{
+	background-color:transparent;
+	border: 0;
+}
+
+.formAcao{
+	display:inline;	
+}
